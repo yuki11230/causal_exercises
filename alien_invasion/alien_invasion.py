@@ -19,5 +19,5 @@ def run_game():
         ship.update()
         # Redraw the screen
         gf.update_screen(ai_settings, screen, ship)
-
+print("THANgitgiKS FOR PLAYING")
 run_game()
